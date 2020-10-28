@@ -1,4 +1,4 @@
-# Projeto base da JS Expert Week
+# NetflixClone - Making Bandersnatch
 
 - Acesse o [index](./public/index/index.html) para visualizar a lista de titulos
 - Acesse o [bandersnatch](./public/bandersnatch/index.html) para acessar o titulo base do projeto
